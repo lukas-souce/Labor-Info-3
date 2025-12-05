@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/johbaum8/c-projekt/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc -g -o CMakeFiles/mini-test.dir/src/ReadComPort.c.o -c /home/johbaum8/c-projekt/src/ReadComPort.c",
+  "file": "/home/johbaum8/c-projekt/src/ReadComPort.c"
+}
+]

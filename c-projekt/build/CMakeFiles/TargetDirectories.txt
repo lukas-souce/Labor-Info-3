@@ -1,0 +1,3 @@
+/home/johbaum8/c-projekt/build/CMakeFiles/mini-test.dir
+/home/johbaum8/c-projekt/build/CMakeFiles/edit_cache.dir
+/home/johbaum8/c-projekt/build/CMakeFiles/rebuild_cache.dir
