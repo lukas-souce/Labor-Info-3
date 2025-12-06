@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/build",
+  "command": "/usr/bin/clang   -g -o CMakeFiles/mini-test.dir/src/ReadComPort.c.o -c /Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/src/ReadComPort.c",
+  "file": "/Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/src/ReadComPort.c",
+  "output": "CMakeFiles/mini-test.dir/src/ReadComPort.c.o"
+},
+{
+  "directory": "/Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/build",
+  "command": "/usr/bin/clang   -g -o CMakeFiles/ohne-test.dir/src/SImuliert.c.o -c /Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/src/SImuliert.c",
+  "file": "/Users/nickpfannenstein/Downloads/Labor-Info-3-main/c-projekt/src/SImuliert.c",
+  "output": "CMakeFiles/ohne-test.dir/src/SImuliert.c.o"
+}
+]
